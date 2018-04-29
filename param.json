@@ -1,0 +1,5 @@
+{‘infile’:’C:/data/data.csv’,
+‘metafile’:’C:/data/metadata.json’,
+‘format’:’tabular’,
+‘hasheader’:0,
+‘separator’:’,’ }
