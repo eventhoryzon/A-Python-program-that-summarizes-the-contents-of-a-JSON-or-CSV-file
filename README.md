@@ -1,5 +1,5 @@
 pyproc
-===============
+------
 
 Process a data file and write metadata information to a data summary file.
 
@@ -15,4 +15,3 @@ where the file param.json contains:
     
 This would make the program run and open the file data.csv and write the meta data it calculates to metadata.json. Included sample params files CSVcarsparams.json and JSONcarsparams.json. 
 
-Author: Emmanuel Osimosu
